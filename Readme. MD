@@ -1,0 +1,33 @@
+
+# Secure Login System
+
+## Project Description
+A secure login web application developed using Python and Flask.
+
+## Features
+- User Registration and Login
+- Password Hashing
+- SQLite Database
+- Input Validation
+- SQL Injection Protection
+- Session Management
+- Logout Feature
+
+## Technologies Used
+- Python
+- Flask
+- SQLite
+- Werkzeug
+- HTML
+
+## How to Run
+1. Install Flask.
+2. Run app.py in Pydroid 3.
+3. Open http://127.0.0.1:5000 in your browser.
+
+## Expected Outcome
+A working login system with hashed passwords,
+input validation, and session management.
+
+## Project Status
+Completed
